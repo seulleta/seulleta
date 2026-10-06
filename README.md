@@ -1,16 +1,12 @@
-## Hi there 👋
+# header
+smth smth i'm suletta, i feel obligated to make a readme so here it is
+## projects
+* [hjonkcli](https://github.com/seulleta/hjonkcli), a cli tool for the indie social media network [hjonk.me](https://hjonk.me) via its api  
+* [GERSaveCryptTool](https://github.com/seulleta/GERSaveCryptTool) is a tool for dealing with the encryption on GOD EATER RESURRECTION save files. works for the other games, too.  
+* there's probably more
 
-<!--
-**seulleta/seulleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## contact
+  
+my website can be found at [suletta.nekoweb.org](https://suletta.nekoweb.org)  
+discord: seulleta  
+actually it's seulleta on most socials
